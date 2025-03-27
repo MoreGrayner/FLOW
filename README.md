@@ -1,7 +1,7 @@
 # FLOW
 Kotlin DSL for Minecraft Bukkit API
 
-### Orientation  
+* ### Orientation  
   * #### 가독성  
   * #### 중복코드 제거  
   * #### 날먹  
@@ -10,42 +10,31 @@ Kotlin DSL for Minecraft Bukkit API
   * #### 디버깅 + 유지보수  
 
 * ### Features
-
- * #### InVENC
-   -   인벤토리 UI 구성 + 액션 정의   
- * #### ItemX
-   -   커스텀 아이템 + 액션 정의
-
- * ### DoLL
-   -   네임스페이스 기반 NPC 엔티티 생성
-
- * ### Particle
-   -   png 기반 파티클 생성 제어  
-
-* ### FireWork
-  -   png 기반 폭죽 발사 제어
-
-* ### Moremmand
-  -   커맨드 명령어 DSL
-
-* ### Event
-  -   이벤트 블록
-  -   자동 인자 파싱
-
-* ### Log
-  * 로그 자동 로딩
-
-* ### CfgLoader
-  -   yml 파일 제어
-
-* ### Protocol
-  -   패킷 제어 가이드
-
-* ### ApIListener
-  *  전용 클라이언트를 이용한 
-
-* ### CoinKid
-  -   실버, 골드, 다이아 기반 재화 관리
+  * #### InVENC
+    -   인벤토리 UI 구성 + 액션 정의   
+  * #### ItemX
+    -   커스텀 아이템 + 액션 정의
+  * #### DoLL
+    -   네임스페이스 기반 NPC 엔티티 생성
+  * #### Particle
+    -   png 기반 파티클 생성 제어
+  * #### FireWork
+    -   png 기반 폭죽 발사 제어
+  * #### Moremmand
+    -   커맨드 명령어 DSL
+  * #### Event
+    -   이벤트 블록
+    -   자동 인자 파싱
+  * #### Log
+    - 로그 자동 로딩
+  * #### CfgLoader
+    -   yml 파일 제어
+  * #### Protocol
+    -   패킷 제어 가이드
+  * #### ApIListener
+    - 전용 클라이언트를 이용한 후원정보 파싱
+  * #### CoinKid
+    -   실버, 골드, 다이아 기반 재화 관리
       
 
 마인크래프트 서버에는 대부분 플러그인이라는 외부 파일이 들어갑니다.  
@@ -93,9 +82,9 @@ InVENC("", 9){ //인벤토리를 고유의 companion object map에 캐싱
 이렇게 기능에 따라 한줄, 많아도 세줄 안으로 구현이 가능한 코드가 완성되었습니다.  
 별도의 openInv() 메서드로 인벤토리 이름을 찾아 열게 할 수 있습니다.  
 
-* ## NOTE
+* ### NOTE
   * FLOW에 사용된 DSL 타입 선언적 프로그래밍 기법은 각별님의 _kommand_ 에서 영감을 받았습니다.
   * 라이선스는 GPL-3.0이며 변경 혹은 삭제를 금합니다.
 
-* ## Contributors
+* ### Contributors
   * #### MoreGrayner
