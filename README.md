@@ -1,26 +1,26 @@
 # FLOW
 Kotlin DSL for Minecraft Bukkit API
 
-## Orientation  
-  * ### 가독성  
-  * ### 중복코드 제거  
-  * ### 날먹  
-  * ### 간결화  
-  * ### 선언적 프로그래밍  
-  * ### 디버깅 + 유지보수  
+### Orientation  
+  * #### 가독성  
+  * #### 중복코드 제거  
+  * #### 날먹  
+  * #### 간결화  
+  * #### 선언적 프로그래밍  
+  * #### 디버깅 + 유지보수  
 
-## Features
+* ### Features
 
-* ### InVENC
-  -   인벤토리 UI 구성 + 액션 정의   
-* ### ItemX
-  -   커스텀 아이템 + 액션 정의
+ * #### InVENC
+   -   인벤토리 UI 구성 + 액션 정의   
+ * #### ItemX
+   -   커스텀 아이템 + 액션 정의
 
-* ### DoLL
-  -   네임스페이스 기반 NPC 엔티티 생성
+ * ### DoLL
+   -   네임스페이스 기반 NPC 엔티티 생성
 
-* ### Particle
-  -   png 기반 파티클 생성 제어  
+ * ### Particle
+   -   png 기반 파티클 생성 제어  
 
 * ### FireWork
   -   png 기반 폭죽 발사 제어
