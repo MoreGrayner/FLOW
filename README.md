@@ -2,7 +2,7 @@
 Kotlin DSL for Minecraft Bukkit API
 
 * ### Orientation  
-  * 가독성  
+  * ##### 가독성  
   * 중복코드 제거  
   *  날먹  
   *  간결화  
