@@ -11,30 +11,30 @@ Kotlin DSL for Minecraft Bukkit API
 
 * ### Features
   *  InVENC
-    -   인벤토리 UI 구성 + 액션 정의   
+     - 인벤토리 UI 구성 + 액션 정의   
   *  ItemX
-    -   커스텀 아이템 + 액션 정의
+     - 커스텀 아이템 + 액션 정의
   *  DoLL
-    -   네임스페이스 기반 NPC 엔티티 생성
+     - 네임스페이스 기반 NPC 엔티티 생성
   *  Particle
-    -   png 기반 파티클 생성 제어
+     - png 기반 파티클 생성 제어
   *  FireWork
-    -   png 기반 폭죽 발사 제어
+     - png 기반 폭죽 발사 제어
   *  Moremmand
-    -   커맨드 명령어 DSL
+     - 커맨드 명령어 DSL
   *  Event
     -   이벤트 블록
     -   자동 인자 파싱
-  * #### Log
-    - 로그 자동 로딩
-  * #### CfgLoader
-    -   yml 파일 제어
-  * #### Protocol
-    -   패킷 제어 가이드
-  * #### ApIListener
-    - 전용 클라이언트를 이용한 후원정보 파싱
-  * #### CoinKid
-    -   실버, 골드, 다이아 기반 재화 관리
+  * Log
+     - 로그 자동 로딩
+  * CfgLoader
+     -   yml 파일 제어
+  * Protocol
+     -   패킷 제어 가이드
+  * ApIListener
+     - 전용 클라이언트를 이용한 후원정보 파싱
+  * CoinKid
+     -   실버, 골드, 다이아 기반 재화 관리
       
 
 마인크래프트 서버에는 대부분 플러그인이라는 외부 파일이 들어갑니다.  
