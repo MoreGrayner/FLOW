@@ -2,27 +2,27 @@
 Kotlin DSL for Minecraft Bukkit API
 
 * ### Orientation  
-  * #### 가독성  
-  * #### 중복코드 제거  
-  * #### 날먹  
-  * #### 간결화  
-  * #### 선언적 프로그래밍  
-  * #### 디버깅 + 유지보수  
+  * 가독성  
+  * 중복코드 제거  
+  *  날먹  
+  *  간결화  
+  *  선언적 프로그래밍  
+  *  디버깅 + 유지보수  
 
 * ### Features
-  * #### InVENC
+  *  InVENC
     -   인벤토리 UI 구성 + 액션 정의   
-  * #### ItemX
+  *  ItemX
     -   커스텀 아이템 + 액션 정의
-  * #### DoLL
+  *  DoLL
     -   네임스페이스 기반 NPC 엔티티 생성
-  * #### Particle
+  *  Particle
     -   png 기반 파티클 생성 제어
-  * #### FireWork
+  *  FireWork
     -   png 기반 폭죽 발사 제어
-  * #### Moremmand
+  *  Moremmand
     -   커맨드 명령어 DSL
-  * #### Event
+  *  Event
     -   이벤트 블록
     -   자동 인자 파싱
   * #### Log
